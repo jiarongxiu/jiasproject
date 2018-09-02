@@ -1,7 +1,2 @@
 2222222
-<<<<<<< HEAD
-wwwwwww
-=======
-dddd
-dddddd
->>>>>>> testing
+test1µÄÐÞ¸Ä
